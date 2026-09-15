@@ -62,7 +62,6 @@ I'm a **Full Stack Web & Flutter Developer** focused on delivering scalable, hig
 
 ---
 
-### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
