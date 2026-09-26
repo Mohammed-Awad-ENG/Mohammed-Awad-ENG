@@ -6,15 +6,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full Stack Web & Flutter Developer** focused on delivering scalable, high-performance web and mobile applications. I take pride in creating complete, start-to-finish projects where everything from the user interface to the database is carefully built.
+I'm a **Full Stack Web & Flutter Developer** dedicated to building scalable, high performance web and mobile applications. I take a comprehensive approach to development, architecting complete solutions from the user interface through to the database, ensuring every layer is thoughtfully designed and production-ready.
 
 🔭 **What I do:** I build cross-platform mobile apps using Flutter, create fast backends with Node.js, and experiment with interactive 3D websites using Three.js. 
 
 💡 **My Philosophy:** I believe good code should be clean and reliable. Whether I'm building a real-time chat app or recreating fun classic games, my goal is always to create a smooth, enjoyable experience for the user.
 
-🎯 **Goals:** Becoming Batman
-
-🎲 **Fun fact:** I'm Batman
 
 ---
 
